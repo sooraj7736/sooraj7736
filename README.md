@@ -6,15 +6,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Flutter+%7C+MERN;ASP.NET+%7C+Laravel+%7C+Angular+Enthusiast;Building+Real-World+Web+%26+Mobile+Apps;MCA+Student+%7C+Kochi%2C+Kerala)](https://github.com/sooraj7736)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Flutter+%7C+MERN;ASP.NET+%7C+Laravel+%7C+Angular+Enthusiast;Building+Real-World+Web+%26+Mobile+Apps;MCA+Student+%7C+Kochi%2C+Kerala)](https://github.com/sooraj7736)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sooraj7736&color=70a5fd&style=flat-square&label=Profile+Views)
+
 [![GitHub followers](https://img.shields.io/github/followers/sooraj7736?style=flat-square&color=70a5fd&labelColor=0d1117)](https://github.com/sooraj7736?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajkumardev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soorajskumardev.netlify.app-70a5fd?style=flat-square&logo=netlify&logoColor=white)](https://soorajskumardev.netlify.app)
 
 </div>
 
@@ -32,6 +33,7 @@ class SoorajSKumar {
   final String degree     = "Integrated MCA (Expected 2027)";
   final String college    = "De Paul Institute of Science & Technology";
   final double cgpa       = 8.3;
+  final String portfolio  = "soorajskumardev.netlify.app";
 
   final List<String> stack = [
     "Flutter", "Dart",
@@ -178,6 +180,7 @@ class SoorajSKumar {
 | 🥗 [**Nutrition-Based Food Delivery Platform**](https://github.com/sooraj7736/nutrition-food-delivery-platform) | `Laravel` `PHP` `MySQL` | Food ordering system with nutrition-goal-based recommendations; includes user, admin, and order management modules |
 | 🎉 [**College Fest Management App**](https://github.com/sooraj7736) | `Flutter` `REST API` | Mobile app for event registration and management, enabling students to browse and register for fest events |
 | ⚽ [**Sports Community Platform**](https://github.com/sooraj7736) | `Flutter` `Firebase` | Real-time community platform for hosting and joining local sports activities with live updates |
+| 🌐 [**Portfolio Website**](https://soorajskumardev.netlify.app) | `HTML` `CSS` `JS` | Personal portfolio showcasing projects, skills, and experience — live on Netlify |
 
 </div>
 
@@ -229,6 +232,7 @@ MERN Stack Deep Dive ->  Redux, Server-Side Rendering, React Query
 
 ### 📬 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-soorajskumardev.netlify.app-70a5fd?style=flat-square&logo=netlify&logoColor=white)](https://soorajskumardev.netlify.app)
 [![Email](https://img.shields.io/badge/Email-soorajskumar9898%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white)](mailto:soorajskumar9898@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soorajkumardev-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajkumardev)
 [![GitHub](https://img.shields.io/badge/GitHub-sooraj7736-70a5fd?style=flat-square&logo=github&logoColor=white)](https://github.com/sooraj7736)
